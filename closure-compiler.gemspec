@@ -12,7 +12,6 @@ Gem::Specification.new do |s|
     A Ruby Wrapper for the Google Closure Compiler.
   EOS
 
-  s.rubyforge_project = "closure-compiler"
   s.authors           = ['Jeremy Ashkenas', 'Jordan Brough']
   s.email             = 'opensource@documentcloud.org'
 
