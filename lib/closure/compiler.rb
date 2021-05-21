@@ -14,7 +14,7 @@ module Closure
 
     DEFAULT_OPTIONS = {
       :warning_level => 'QUIET',
-      :language_in => 'ECMASCRIPT6'
+      :language_in => 'ECMASCRIPT6',
       :language => 'ECMASCRIPT6'
     }
 
